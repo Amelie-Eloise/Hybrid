@@ -1,0 +1,16 @@
+be in the local folder you want to use first
+
+create a new repository on the command line
+
+echo "# Hybrid" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Amelie-Eloise/Hybrid.git
+git push -u origin master
+
+
+to add a file thereafter commit-a then follow the instructions
+use git status to progress check
+
+local content can be moved (wholesale) to another folder if you created the local repo in the wrong place
